@@ -25,6 +25,7 @@ ukol1Lekce2.body.innerHTML += "<p>Měsíční příjem se slevou:" + prijemSeSle
 // házení kostkou - NEVĚDĚLA!!
 
 //const cisloNaKostce = 1 + Math.floor(Math.random() * 6)
+// zkouška nové větve
 
 
 
